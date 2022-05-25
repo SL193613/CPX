@@ -1,0 +1,13 @@
+{
+  "updates": {
+    "windows": {
+      "open-url": "",
+      "latest-version": "1.0.0",
+      "download-url": "https://gitee.com/barret1/comicide/attach_files/982082/download/install.exe",
+      "changelog":[
+
+      ], 
+      "mandatory": true
+    }
+  }
+}
